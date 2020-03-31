@@ -1,4 +1,4 @@
-# Acode editor (Code editor for android)
+#1 Acode editor (Code editor for android)
 
 This is a hybrid app using Apache Cordova. This app is published on play store. Check it out from [here](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree).
 
